@@ -1,6 +1,6 @@
 currentPath=$(pwd)
-batch_input=$currentPath"/paymo_input/xkbatch_payment.txt"
-stream_input=$currentPath"/paymo_input/xkstream_payment.txt"
+batch_input=$currentPath"/paymo_input/batch_payment.txt"
+stream_input=$currentPath"/paymo_input/stream_payment.txt"
 output1=$currentPath"/paymo_output/output1.txt"
 output2=$currentPath"/paymo_output/output2.txt"
 output3=$currentPath"/paymo_output/output3.txt"
